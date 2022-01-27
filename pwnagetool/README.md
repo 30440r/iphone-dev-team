@@ -2,7 +2,7 @@
 
 PwnageTool is a jailbreaking tool created by the iPhone Dev Team. This is a mirror of some older versions of PwnageTool.
 
-I verified SHA1 hashes match those posted on the iPhone Dev Team blog. I generated SHA256 hashes myself.
+I verified SHA1 hashes match those posted on the iPhone Dev Team blog. axi0mX generated the SHA256 hashes.
 
 
 | File                                | SHA1                                     | SHA256                                                           |
