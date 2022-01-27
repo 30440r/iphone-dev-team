@@ -1,8 +1,8 @@
-# PwnageTool-mirror
+# PwnageTool
 
 PwnageTool is a jailbreaking tool created by the iPhone Dev Team. This is a mirror of some older versions of PwnageTool.
 
-I verified SHA1 hashes match those posted on the iPhone Dev Team blog. I generated SHA256 hashes myself.
+I verified SHA1 hashes match those posted on the iPhone Dev Team blog. axi0mX generated the SHA256 hashes.
 
 
 | File                                | SHA1                                     | SHA256                                                           |
@@ -23,3 +23,4 @@ I verified SHA1 hashes match those posted on the iPhone Dev Team blog. I generat
 | PwnageTool_4.3.3.dmg                | fc2721a6c1230aa676729b2e4aeeec3cd4ffed7a | 3f5b8b6653a555488fb835e96aee23200b56cc6ed3a93befd79a5eb6160ead6d |
 | PwnageTool_4.3.3.1.dmg              | 2c8b17c28ae10295b72dabde30bb4b39b0e85821 | 0308a40818e063a23992e97a99d07c78be445ce8293bf189e1657558bd2927b2 |
 | PwnageTool_5.0.1.dmg                | 32e90607378988cdebb6c76d3acf8ffac6366e35 | 51339209f505bb3941afb64d7715f4fd588902345f55baf15f73d81d6701923a |
+| PwnageTool_5.1.1.dmg                | af033c70d99bfde4f4be1c7783909cdce90b83b0 | 84262734ad9f9186bce14a4f939d7ea290ed187782fdfa549a82c28bf837c808 |
